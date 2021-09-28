@@ -29,9 +29,9 @@ Input: "th" --> "that" (2), "thing" (2), "think" (1), "this" (1), "third" (1), "
 
 ```
 
-- ## Language: HTML/JS
-- ## To run, open the '.html' file in your favorite browser.
-- ## Plain Javascript was chosen to minimize packages that would need to be installed as opposed to React or Angular.
-- ## As you type the input Text, suggestions will pop up below the typing area.
+- ### Language: HTML/JS
+- ### To run, open the '.html' file in your favorite browser.
+- ### Plain Javascript was chosen to minimize packages that would need to be installed as opposed to React or Angular. Bootstrap was linked to provide a basic template.
+- ### As you type the input Text, suggestions will pop up below the typing area.
 
 ![](./pic1.png)
